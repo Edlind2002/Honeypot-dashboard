@@ -1,0 +1,8 @@
+{
+  "name": "Deception Defense Console",
+  "description": "Simulation of an AI-driven SSH honeypot defending against various attacker profiles using Reinforcement Learning (PPO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
